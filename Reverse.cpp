@@ -17,9 +17,7 @@ int main() {
     int number;
     cout << "Enter number:";
     cin >> number;
-
     reverse(number);// call recursive reverse function
-
     return 0;
 };
 
